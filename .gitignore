@@ -32,8 +32,7 @@ bin/
 # Rust
 /target/
 Cargo.lock
-# Visualizations
-visualizations/gifs/
+
 # General
 *.cache
 *.report
