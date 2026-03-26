@@ -1,6 +1,6 @@
-# SortingAlgorithms: An Academic, Cross-Language Atlas of Sorting (with Visual Gallery)
+# SortingAlgorithms: with Visual Gallery
 
-This repository is a research-grade atlas of sorting algorithms with code in Python, C, Go, Rust, and x86-64 assembly. It provides:
+ It provides:
 
 - **Per-algorithm source files** for side-by-side comparison.
 - **Instrumentation + GIF visualizations** produced from deterministic traces.
