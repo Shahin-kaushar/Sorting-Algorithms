@@ -32,7 +32,6 @@ bin/
 # Rust
 /target/
 Cargo.lock
-
 # General
 *.cache
 *.report
